@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/calorifero/backend.git
+[submodule "esp"]
+	path = esp
+	url = https://github.com/calorifero/esp.git
