@@ -1,3 +1,6 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/calorifero/app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/calorifero/backend.git
